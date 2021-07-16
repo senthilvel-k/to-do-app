@@ -74,7 +74,9 @@ Ripple effect is also added in each flatlist.
 
 ## Required Files
 
-Code of the main app is in _App.js_ file and the code for each screen is in _src/HomeScreen.js_ and _src/TodoScreen.js_
+Code of the main app is in _App.js_ file and the code for each screen is in _src/HomeScreen.js_ and _src/Todo.js_
+
+The image added in the mainscreen is given in _src/Todo.png_ 
 
 Output demo videos and screenshots are in _Output/Video_ and _Output/Screenshots_ folder
 
