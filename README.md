@@ -1,6 +1,6 @@
 # TO-DO APP
 
-A To-do app done with React Native
+A simple, user-friendly To-do App done with React Native
 
 ![PicsArt_07-16-06 53 52](https://user-images.githubusercontent.com/86486178/125955155-56b4b807-e36e-4daf-9020-e7366f46bbb5.jpg)
 
@@ -45,23 +45,25 @@ npx react-native link
 
 ### Home Screen
 
-This screen consists of a image, title and a button to navigate to To-do Screen 
+This screen consists of a image, title and a button to navigate to To-do Screen.
 
-When you press the **Go to your work** button, it takes you to the to-do screen
+When you press the **Go to your work** button, it takes you to the to-do screen.
 
-The ripple effect is also added 
+The ripple effect is also added.
 
-**You can check out the HomeScreen screenrecording in the Output Video folder**
+**You can check out the HomeScreen screenrecording in the Output Video folder**.
 
 ### To-do List
 
-Input yout text in the text input section and add your work
+Input yout text in the text input section and add your work.
 
-You can mark it completed or delete it or uncomplete it with the respective icons
+You can mark it completed or delete it or uncomplete it with the respective icons.
 
-If you didn't add any text and click the **+** floating icon, it shows an alert screen
+If you didn't add any text and click the **+** floating icon, it shows an alert screen.
 
 If you click the delete all icon, it will ask your comformation about the process.
+
+Ripple effect is also added in each flatlist.
 
 ![Alert Boxes](https://user-images.githubusercontent.com/86486178/125961186-42876098-e905-4c11-8685-7a23947717ce.png)
 
@@ -69,6 +71,14 @@ If you click the delete all icon, it will ask your comformation about the proces
 
 1. Dark Mode
 2. Separate tabs for completed work and starred work
+
+## Required Files
+
+Code of the main app is in _App.js_ file and the code for each screen is in _src/HomeScreen.js_ and _src/TodoScreen.js_
+
+Output demo videos and screenshots are in _Output/Video_ and _Output/Screenshots_ folder
+
+### The apk file of the app is also given in the _Output/App_ folder
 
 
 
